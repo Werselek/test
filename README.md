@@ -6,4 +6,4 @@ Informacje!
 
 Dodatkowy tekst.
 
-## AmODYFIKACJA
+## Modyfikacja
